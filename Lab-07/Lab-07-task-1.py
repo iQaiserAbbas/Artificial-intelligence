@@ -1,6 +1,6 @@
 # Owned
 __author__ = "Qaiser Abbas"
-__copyright__ = "Copyright 2020, Artificial Intelligence lab-06"
+__copyright__ = "Copyright 2020, Artificial Intelligence lab-07"
 __email__ = "qaiserabbas889@yahoo.com"
 #===============================================================
 # {code}
